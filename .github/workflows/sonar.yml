@@ -3,7 +3,7 @@ name: Sonar Continuous Integration
 env:
   DOTNET_VERSION: '9.x'
   SONAR_ORG: 'laos19'
-  SONAR_PROJECT: '19a4fa450a9af4af4cb1dff294ad7db6a1cadc85'
+  SONAR_PROJECT: 'cd09ae26ff4d23cf5d6d242369976139f0c48e8c'
 
 on:
   push:

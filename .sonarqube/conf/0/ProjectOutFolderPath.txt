@@ -1,1 +1,1 @@
-C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\.sonarqube\out\0
+C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\.sonarqube\out\0

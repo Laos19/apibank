@@ -1,1 +1,1 @@
-|RoC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domain.Tests\Bank.Domain.Tests.csprojòCSharp13
+|RoC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\Bank.Domain.Tests\Bank.Domain.Tests.csprojòCSharp13

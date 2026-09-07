@@ -4,15 +4,15 @@
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
   <ProjectGuid>b6d2a745-4c76-41d9-a62d-e37bdf189d91</ProjectGuid>
-  <FullPath>C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domain\Bank.Domain.csproj</FullPath>
+  <FullPath>C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\Bank.Domain\Bank.Domain.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResultFiles>
-    <AnalysisResultFile Id="FilesToAnalyze" Location="C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\.sonarqube\conf\0\FilesToAnalyze.txt" />
+    <AnalysisResultFile Id="FilesToAnalyze" Location="C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\.sonarqube\conf\0\FilesToAnalyze.txt" />
   </AnalysisResultFiles>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\.sonarqube\out\0\Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\.sonarqube\out\0</Property>
-    <Property Name="sonar.cs.scanner.telemetry">C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\.sonarqube\out\0\Telemetry.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\.sonarqube\out\0</Property>
+    <Property Name="sonar.cs.scanner.telemetry">C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\.sonarqube\out\0\Telemetry.json</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

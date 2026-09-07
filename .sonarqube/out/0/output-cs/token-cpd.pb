@@ -1,5 +1,5 @@
-
-fC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domain\Models\BankAccount.cs
+Ñ
+fC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\Bank.Domain\Models\BankAccount.cs
 	namespace 	
 Bank
  
@@ -21,13 +21,7 @@ fC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domai
 private 
 double 
 	m_balance  
-;  !
-private 
-BankAccount 
-( 
-) 
-{ 
-}  !
+;  !
 public 
 BankAccount 
 ( 
@@ -37,110 +31,107 @@ fC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domai
 double0 6
 balance7 >
 )> ?
-{		 	
-m_customerName
+{		 	!
+ArgumentNullException
 
- 
-=
+ !
+.
 
- 
+! "
+ThrowIfNull
+
+" -
+(
+
+- .
 customerName
 
- )
+. :
+)
+
+: ;
 ;
 
-) *
-	m_balance 
-= 
-balance 
-;  
-} 	
-public 
-string 
-CustomerName "
-{# $
-get% (
-{) *
-return+ 1
-m_customerName2 @
-;@ A
-}B C
-}D E
-public 
-double 
-Balance 
-{ 
-get  #
-{$ %
-return& ,
-	m_balance- 6
-;6 7
-}8 9
-}; <
-public 
-void 
-Debit 
-( 
-double  
-amount! '
-)' (
-{ 	
-if 
-( 
-amount 
-> 
-	m_balance "
-)" #
-throw 
-new '
-ArgumentOutOfRangeException 5
-(5 6
-$str6 >
-)> ?
-;? @
-if 
-( 
-amount 
-< 
-$num 
-) 
-throw 
-new '
-ArgumentOutOfRangeException 5
-(5 6
-$str6 >
-)> ?
-;? @
-	m_balance 
--= 
-amount 
-;  
-} 	
-public 
-void 
-Credit 
-( 
-double !
-amount" (
-)( )
-{ 	
-if 
-( 
-amount 
-< 
-$num 
-) 
-throw 
-new '
-ArgumentOutOfRangeException 5
-(5 6
-$str6 >
-)> ?
-;? @
-	m_balance 
-+= 
-amount 
-;  
-} 	
-} 
-} 
+; <
+m_customerName 
+= 
+customerName )
+;) *
+	m_balance 
+= 
+balance 
+;  
+} 	
+public 
+string 
+CustomerName "
+{ 	
+get 
+{ 
+return 
+m_customerName '
+;' (
+}) *
+} 	
+public 
+double 
+Balance 
+{ 	
+get 
+{ 
+return 
+	m_balance "
+;" #
+}$ %
+} 	
+public 
+void 
+Debit 
+( 
+double  
+amount! '
+)' (
+{ 	'
+ArgumentOutOfRangeException '
+.' (
+ThrowIfNegative( 7
+(7 8
+amount8 >
+)> ?
+;? @'
+ArgumentOutOfRangeException '
+.' (
+ThrowIfGreaterThan( :
+(: ;
+amount; A
+,A B
+	m_balanceC L
+)L M
+;M N
+	m_balance 
+-= 
+amount 
+;  
+}   	
+public"" 
+void"" 
+Credit"" 
+("" 
+double"" !
+amount""" (
+)""( )
+{## 	'
+ArgumentOutOfRangeException$$ '
+.$$' (
+ThrowIfNegative$$( 7
+($$7 8
+amount$$8 >
+)$$> ?
+;$$? @
+	m_balance&& 
++=&& 
+amount&& 
+;&&  
+}'' 	
+}(( 
+})) 

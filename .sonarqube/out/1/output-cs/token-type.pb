@@ -1,5 +1,5 @@
 ê
-jC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domain.Tests\BankAccountTests.cs
+jC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\Bank.Domain.Tests\BankAccountTests.cs
  
  
  	 

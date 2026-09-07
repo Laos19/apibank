@@ -1,1 +1,1 @@
-pRcC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domain\Bank.Domain.csprojòCSharp13
+pRcC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\bank\Bank.Domain\Bank.Domain.csprojòCSharp13

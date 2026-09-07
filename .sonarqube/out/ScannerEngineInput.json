@@ -10,27 +10,27 @@
     },
     {
       "key": "sonar.scanner.bootstrapStartTime",
-      "value": "1788754872000"
+      "value": "1788797614000"
     },
     {
       "key": "sonar.projectKey",
-      "value": "laos19"
+      "value": "cd09ae26ff4d23cf5d6d242369976139f0c48e8c"
     },
     {
       "key": "sonar.working.directory",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\.sonar"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\.sonar"
     },
     {
       "key": "sonar.projectBaseDir",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank"
     },
     {
       "key": "sonar.pullrequest.cache.basepath",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank"
     },
     {
       "key": "sonar.sources",
-      "value": ""
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.github\\workflows\\release.yml,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.github\\workflows\\sonar.yml"
     },
     {
       "key": "sonar.tests",
@@ -42,7 +42,7 @@
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.projectKey",
-      "value": "laos19:B6D2A745-4C76-41D9-A62D-E37BDF189D91"
+      "value": "cd09ae26ff4d23cf5d6d242369976139f0c48e8c:B6D2A745-4C76-41D9-A62D-E37BDF189D91"
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.projectName",
@@ -50,11 +50,11 @@
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.projectBaseDir",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain"
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.working.directory",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\.sonar\\mod0"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\.sonar\\mod0"
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.sourceEncoding",
@@ -66,23 +66,23 @@
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.sources",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\Models\\BankAccount.cs,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\obj\\Bank.Domain.csproj.nuget.dgspec.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\obj\\project.assets.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\bin\\Debug\\net9.0\\Bank.Domain.deps.json"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain\\Models\\BankAccount.cs,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain\\obj\\Bank.Domain.csproj.nuget.dgspec.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain\\obj\\project.assets.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain\\bin\\Debug\\net9.0\\Bank.Domain.deps.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain\\bin\\Release\\net9.0\\Bank.Domain.deps.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain\\obj\\Debug\\net9.0\\Bank.Domain.sourcelink.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain\\obj\\Release\\net9.0\\Bank.Domain.sourcelink.json"
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.cs.analyzer.projectOutPaths",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\0"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\0"
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.cs.roslyn.reportFilePaths",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\0\\Issues.json"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\0\\Issues.json"
     },
     {
       "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.cs.scanner.telemetry",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\0\\Telemetry.json"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\0\\Telemetry.json"
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.projectKey",
-      "value": "laos19:DE5673BA-9692-4211-B3A5-DAE2ED4CD964"
+      "value": "cd09ae26ff4d23cf5d6d242369976139f0c48e8c:DE5673BA-9692-4211-B3A5-DAE2ED4CD964"
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.projectName",
@@ -90,11 +90,11 @@
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.projectBaseDir",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests"
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.working.directory",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\.sonar\\mod1"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\.sonar\\mod1"
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.sourceEncoding",
@@ -106,43 +106,31 @@
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.tests",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\obj\\Bank.Domain.Tests.csproj.nuget.dgspec.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\obj\\project.assets.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\bin\\Debug\\net9.0\\Bank.Domain.Tests.deps.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\bin\\Debug\\net9.0\\Bank.Domain.Tests.runtimeconfig.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\BankAccountTests.cs,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\TestResults\\f837e41e-9f2e-4b4a-8376-811a13619991\\coverage.opencover.xml"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\obj\\Bank.Domain.Tests.csproj.nuget.dgspec.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\obj\\project.assets.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\bin\\Debug\\net9.0\\Bank.Domain.Tests.deps.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\bin\\Debug\\net9.0\\Bank.Domain.Tests.runtimeconfig.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\obj\\Debug\\net9.0\\Bank.Domain.Tests.sourcelink.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\BankAccountTests.cs,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\TestResults\\7aaf44f0-58f4-4046-b62b-b8abfe195450\\coverage.opencover.xml,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\Bank.Domain.Tests\\TestResults\\f837e41e-9f2e-4b4a-8376-811a13619991\\coverage.opencover.xml"
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.cs.analyzer.projectOutPaths",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\1"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\1"
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.cs.roslyn.reportFilePaths",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\1\\Issues.json"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\1\\Issues.json"
     },
     {
       "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.cs.scanner.telemetry",
-      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\1\\Telemetry.json"
-    },
-    {
-      "key": "sonar.token",
-      "value": "***"
-    },
-    {
-      "key": "sonar.host.url",
-      "value": "https://sonarcloud.io"
-    },
-    {
-      "key": "sonar.cs.opencover.reportsPaths",
-      "value": "**/coverage.opencover.xml"
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\bank\\.sonarqube\\out\\1\\Telemetry.json"
     },
     {
       "key": "sonar.organization",
       "value": "laos19"
     },
     {
-      "key": "sonar.exclusions",
-      "value": "**/coverage.opencover.xml"
-    },
-    {
       "key": "sonar.visualstudio.enable",
       "value": "false"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "https://sonarcloud.io"
     }
   ]
 }
