@@ -1,0 +1,7 @@
+{
+  "language": "C#",
+  "targetFramework": "net9.0",
+  "assemblyName": "Bank.Domain.Tests",
+  "projectType": "Test",
+  "projectPath": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\Bank.Domain.Tests.csproj"
+}

@@ -1,0 +1,148 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.3"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1788754872000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "laos19"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "B6D2A745-4C76-41D9-A62D-E37BDF189D91,DE5673BA-9692-4211-B3A5-DAE2ED4CD964"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.projectKey",
+      "value": "laos19:B6D2A745-4C76-41D9-A62D-E37BDF189D91"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.projectName",
+      "value": "Bank.Domain"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.projectBaseDir",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.working.directory",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.sources",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\Models\\BankAccount.cs,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\obj\\Bank.Domain.csproj.nuget.dgspec.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\obj\\project.assets.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain\\bin\\Debug\\net9.0\\Bank.Domain.deps.json"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "B6D2A745-4C76-41D9-A62D-E37BDF189D91.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.projectKey",
+      "value": "laos19:DE5673BA-9692-4211-B3A5-DAE2ED4CD964"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.projectName",
+      "value": "Bank.Domain.Tests"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.projectBaseDir",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.working.directory",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.tests",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\obj\\Bank.Domain.Tests.csproj.nuget.dgspec.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\obj\\project.assets.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\bin\\Debug\\net9.0\\Bank.Domain.Tests.deps.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\bin\\Debug\\net9.0\\Bank.Domain.Tests.runtimeconfig.json,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\BankAccountTests.cs,C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\Bank.Domain.Tests\\TestResults\\f837e41e-9f2e-4b4a-8376-811a13619991\\coverage.opencover.xml"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "DE5673BA-9692-4211-B3A5-DAE2ED4CD964.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\adriana\\Documents\\UPT\\2026II\\calidadYPruebasDeSoftware\\Bank\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "https://sonarcloud.io"
+    },
+    {
+      "key": "sonar.cs.opencover.reportsPaths",
+      "value": "**/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.organization",
+      "value": "laos19"
+    },
+    {
+      "key": "sonar.exclusions",
+      "value": "**/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

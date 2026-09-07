@@ -1,0 +1,1 @@
+﻿C:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domain\Models\BankAccount.cs

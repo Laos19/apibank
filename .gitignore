@@ -1,0 +1,31 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test results
+TestResults/
+
+# Coverage
+*.coverage
+*.coveragexml
+
+# Sonar
+.sonar/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+
+# OS
+.DS_Store
+Thumbs.db

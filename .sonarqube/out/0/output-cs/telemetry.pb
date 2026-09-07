@@ -1,0 +1,1 @@
+pRcC:\Users\adriana\Documents\UPT\2026II\calidadYPruebasDeSoftware\Bank\Bank.Domain\Bank.Domain.csprojòCSharp13
