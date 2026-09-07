@@ -1,0 +1,53 @@
+name: Release NuGet Package
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Build and Release NuGet
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.x'
+
+      - name: Restore
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test --configuration Release --no-build
+
+      - name: Pack NuGet
+        run: dotnet pack ./Bank.Domain/Bank.Domain.csproj --configuration Release --no-build
+
+      - name: Generate release notes
+        run: |
+          echo "## Cambios de la versión ${{ github.ref_name }}" > RELEASE_NOTES.md
+          echo "" >> RELEASE_NOTES.md
+          echo "### Modificaciones" >> RELEASE_NOTES.md
+          git log -10 --pretty=format:"- %s" >> RELEASE_NOTES.md
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Release ${{ github.ref_name }}
+          body_path: RELEASE_NOTES.md
+          files: |
+            ./Bank.Domain/bin/Release/Bank.Domain.*.nupkg
